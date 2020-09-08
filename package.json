@@ -1,0 +1,13 @@
+{
+  "name": "com.bodytools.screenshooter",
+  "version": "1.0.0",
+  "displayName": "Screen Shooter",
+  "description": "Small tool for taking screenshots\nWindow > ScreenShooter",
+  "keywords": [
+    "screenshot"
+  ],
+  "author": {
+    "name": "Artem Fesunenko",
+    "email": "body051@gmail.com"
+  }
+}
