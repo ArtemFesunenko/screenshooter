@@ -1,2 +1,2 @@
-Small tool for taking screenshots
+Small tool for taking screenshots<br/>
 Window > ScreenShooter
